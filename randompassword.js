@@ -20,8 +20,5 @@ function shuffleArray(array) {
   }
   return array;
 }
-// password to metaTraderaccount: BwBUCxO9YoBa
-// email there koyntr8r@gmail.com
-// site for the thing: https://www.mql5.com/en/users/teecar 
 
 console.log(generatePassword(12));
